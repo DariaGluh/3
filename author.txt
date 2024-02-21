@@ -1,2 +1,2 @@
 Galiautdinova_Zulfiya
-Java
+Python
